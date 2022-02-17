@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b418ce7-449b-486d-980e-b0ce1b34fcf6": {
+      "ProjectGuid": "1b418ce7-449b-486d-980e-b0ce1b34fcf6",
+      "DisplayName": "CustomExceptionsExam",
+      "ColorIndex": 0
+    },
+    "3f5ea47d-1a2b-475b-a158-8b9c5fe3cbe2": {
+      "ProjectGuid": "3f5ea47d-1a2b-475b-a158-8b9c5fe3cbe2",
+      "DisplayName": "CheckStringException",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

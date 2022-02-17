@@ -1,0 +1,38 @@
+Access Modifiers : Following modifiers are defined in c# dotnet
+
+	1. Public : Provide access to all over the application.
+	2. Private : Provide access within current class.
+	3. protected : Provide access within current class and derived class.
+	4. Internal : Provide access within all classes of current namespace.
+	5. Protected Internal : Provide access within all classes of current namespace and other namespace's derived classes.
+
+Q1.  
+            1. Any .NET application is first get converted into MSIL format while getting compiled.
+	2. The .exe ot .dll file will be created based on the type of the project.
+	3. Then it will be sent to class loader
+	4. Then in class loader by using Just-In-Time compiler bytecode gets converted into CPU Specific format.
+	5. Then it would be sent to execution manager where there is a queue containing ready to run programs where the program can be executed.
+
+Q2.	
+	1. FileModes : File modes are the modes in which a file can be accessed these are as follows 
+
+		a. FileMode.Open
+		b. FileMode.Append
+		c. FileMode.Create
+		 
+	2. StreamReader : Straem Reader class reads the content of a file as a stream.
+	3. StreamWriter : Stream Writer class is used to write the content in a target file.
+	4. BinaryReader : The BinaryReader class provides methods that reading primitive data types from a stream.
+	5. BinaryWriter : The BinaryWriter class Provides methods that writes primitive data types into a file.
+
+Q3. Abstract Classes : Abstract classes are the classes used for applying the abstraction. these class can not be instantiated but inherited. These classes cam contain 
+			methods and abstract methods. The abstract methods has to overridden by the inherited class.
+       Interfaces : Interfaces are used to implement multiple inheritance as C# doesn't support multiple inheritance. Interfaces can only have abstract methods. The inherited class must provide the 
+		implementation of these methods. by default interface methods are public abstract.
+
+	Diff. between abstract classes and interfaces : 	
+		1. Abstract classes can be used to implement multiple iheritance but Interfaces are used to implement multiple inheritance.
+		2. Abstract classes can contain normal and abstract both methods. Interfaces can contain only abstract methods.	
+		3. An Interface can be called anywhere to anywhere.
+
+Q4. 

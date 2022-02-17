@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\bin\Debug\ReadDataExams.exe.config
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\bin\Debug\ReadDataExams.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\bin\Debug\ReadDataExams.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\obj\Debug\ReadDataExams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\obj\Debug\ReadDataExams.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\obj\Debug\ReadDataExams.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\ReadDataExams\ReadDataExams\obj\Debug\ReadDataExams.pdb

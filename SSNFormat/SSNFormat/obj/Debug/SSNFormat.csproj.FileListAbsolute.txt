@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\bin\Debug\SSNFormat.exe.config
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\bin\Debug\SSNFormat.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\bin\Debug\SSNFormat.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\obj\Debug\SSNFormat.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\obj\Debug\SSNFormat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\obj\Debug\SSNFormat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\obj\Debug\SSNFormat.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\SSNFormat\SSNFormat\obj\Debug\SSNFormat.pdb

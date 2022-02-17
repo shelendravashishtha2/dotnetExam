@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CustomExceptionsExam\bin\Debug\CustomExceptionsExam.dll
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CustomExceptionsExam\bin\Debug\CustomExceptionsExam.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CustomExceptionsExam\obj\Debug\CustomExceptionsExam.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CustomExceptionsExam\obj\Debug\CustomExceptionsExam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CustomExceptionsExam\obj\Debug\CustomExceptionsExam.dll
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CustomExceptionsExam\obj\Debug\CustomExceptionsExam.pdb

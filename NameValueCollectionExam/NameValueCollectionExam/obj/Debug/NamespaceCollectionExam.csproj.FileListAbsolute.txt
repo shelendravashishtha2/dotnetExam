@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\bin\Debug\NamespaceCollectionExam.exe.config
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\bin\Debug\NamespaceCollectionExam.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\bin\Debug\NamespaceCollectionExam.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\obj\Debug\NamespaceCollectionExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\obj\Debug\NamespaceCollectionExam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\obj\Debug\NamespaceCollectionExam.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\NamespaceCollectionExam\NamespaceCollectionExam\obj\Debug\NamespaceCollectionExam.pdb

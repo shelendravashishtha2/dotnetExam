@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\bin\Debug\TimeZones.exe.config
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\bin\Debug\TimeZones.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\bin\Debug\TimeZones.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\obj\Debug\TimeZones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\obj\Debug\TimeZones.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\obj\Debug\TimeZones.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\obj\Debug\TimeZones.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\TimeZones\TimeZones\obj\Debug\TimeZones.csproj.AssemblyReference.cache

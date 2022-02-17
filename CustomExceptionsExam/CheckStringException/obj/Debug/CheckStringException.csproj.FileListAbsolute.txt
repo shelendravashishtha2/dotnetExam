@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\bin\Debug\CheckStringException.exe.config
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\bin\Debug\CheckStringException.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\bin\Debug\CheckStringException.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\obj\Debug\CheckStringException.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\obj\Debug\CheckStringException.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\obj\Debug\CheckStringException.exe
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\obj\Debug\CheckStringException.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\bin\Debug\CustomExceptionsExam.dll
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\bin\Debug\CustomExceptionsExam.pdb
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\obj\Debug\CheckStringException.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C Sharp dotnet\CustomExceptionsExam\CheckStringException\obj\Debug\CheckStringException.csproj.CopyComplete
